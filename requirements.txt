@@ -1,0 +1,4 @@
+openai
+python-dotenv==1.0.0
+fastapi==0.95.1
+uvicorn==0.22.0
